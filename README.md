@@ -1,4 +1,4 @@
-[![Header](https://github.com/Makankn/MakanKn/blob/main/assets/Poster.png "Header")](https://makankananian.com/)
+<!-- [![Header](https://github.com/Makankn/MakanKn/blob/main/assets/Poster.png "Header")](https://makankananian.com/) -->
 
 # Hello! <img src="https://github.com/Makankn/MakanKn/blob/main/assets/wave.gif" width="30px">
 
