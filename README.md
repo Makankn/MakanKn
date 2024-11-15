@@ -1,6 +1,6 @@
 [![Header](https://github.com/Makankn/MakanKn/blob/main/assets/Poster.png "Header")](https://makankananian.com/)
 
-# Hello! `<img src="https://github.com/Makankn/MakanKn/blob/main/assets/wave.gif" width="30px">`
+# Hello! <img src="https://github.com/Makankn/MakanKn/blob/main/assets/wave.gif" width="30px">
 
 My name is Makan, an ML/Software Engineer, Currently I'm living in Germany doing my Master's at Bonn University.
 
