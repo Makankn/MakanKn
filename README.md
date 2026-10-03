@@ -8,13 +8,7 @@ My background includes research in **graph-based fake news detection**, **imbala
 
 ### 🔬 Research & Projects
 
-- **GraMuFeN** — Graph-based multimodal fake news detection  
-  Improved micro-F1 by ~10% while reducing model parameters by ~50%.
-
-- **Adversarial Weight Balancer** — GNN-based method for imbalanced text classification  
-  Achieved ~15% accuracy improvement on evaluated datasets.
-
-- **Software & AI Engineering** — Production development across mobile applications, backend integrations, authentication, payments, analytics, and AI-assisted systems.
+Go checkout my [Portfolio](https://makankananian.com), I don't update it that much but you may find something interesting there!
 
 ### 🛠 Tech
 
