@@ -1,22 +1,34 @@
-<!-- [![Header](https://github.com/Makankn/MakanKn/blob/main/assets/Poster.png "Header")](https://makankananian.com/) -->
+# Hey, I'm Makan 👋
 
-# Hello! <img src="https://github.com/Makankn/MakanKn/blob/main/assets/wave.gif" width="30px">
+I'm a **Software & AI Engineer** currently pursuing an **M.Sc. in Computer Science at the University of Bonn**.
 
-My name is Makan, a ML/Software Engineer. Currently I'm living in Germany doing my Master's at Bonn University.
+I work across **machine learning, deep learning, NLP, graph neural networks, and software engineering**, with a focus on taking ideas **from research to production**.
 
-## 💻 Technologies & Tools
+My background includes research in **graph-based fake news detection**, **imbalanced learning with GNNs**, and practical software development with **Python, C#, Unity, and Docker**.
 
-![Python](https://img.shields.io/badge/Python-%20?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-%20?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C)
-![PyG](https://img.shields.io/badge/PyG-%20?style=for-the-badge&logo=pyg&color=3C2179)
-![C#](https://img.shields.io/badge/C%23-%20?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%20?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%20?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
-![Unity](https://img.shields.io/badge/Unity-%20?style=for-the-badge&logo=unity&logoColor=white&color=000000)
-![Docker](https://img.shields.io/badge/Docker-%20?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+### 🔬 Research & Projects
 
-<!-- links to your social media accounts -->
+- **GraMuFeN** — Graph-based multimodal fake news detection  
+  Improved micro-F1 by ~10% while reducing model parameters by ~50%.
 
-[1]: https://www.linkedin.com/in/makankananian/
-[2]: https://makankananian.com
+- **Adversarial Weight Balancer** — GNN-based method for imbalanced text classification  
+  Achieved ~15% accuracy improvement on evaluated datasets.
+
+- **Software & AI Engineering** — Production development across mobile applications, backend integrations, authentication, payments, analytics, and AI-assisted systems.
+
+### 🛠 Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyG](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📫 Find me
+
+[Portfolio](https://makankananian.com) •
+[LinkedIn](https://www.linkedin.com/in/makankananian/)
