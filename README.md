@@ -24,5 +24,4 @@ Go checkout my [Portfolio](https://makankananian.com), I don't update it that mu
 
 ### 📫 Find me
 
-[Portfolio](https://makankananian.com) •
-[LinkedIn](https://www.linkedin.com/in/makankananian/)
+Shoot me an email or a message, will try to reply as soon as possible
